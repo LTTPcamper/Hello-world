@@ -1,2 +1,2 @@
 # Hello-world
-Really late coding and therefore open to tips and ideas to help along
+Really late to coding and therefore open to tips and ideas to help along
